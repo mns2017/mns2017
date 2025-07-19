@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | TSX & JSX Wizard | DSA Explorer | Rajput with a Smart Mind ⚔️</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkf3q4/giphy.gif" width="200" alt="Courage on computer"/>
+  <img src="" width="200" alt="Courage on computer"/>
   <br/>
   <em>"Code fearlessly like Courage 🐶, but build smart like a Rajput 🧠⚔️"</em>
 </p>
