@@ -1,11 +1,11 @@
 
 <h1 align="center">Hey 👋, I'm Suraj Singh</h1>
-<h3 align="center">MERN Stack Developer | TSX & JSX Wizard | DSA Explorer | Rajput with a Smart Mind ⚔️</h3>
+<h3 align="center">MERN Stack Developer | TSX & JSX Wizard | DSA Explorer | A Person with a Smart Mind</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mns2017/mns2017/main/file_000000006cdc61fd85ba1c2ad08344ce.png  " width="200" alt="Courage on computer"/>
   <br/>
-  <em>"Code fearlessly like Courage 🐶, but build smart like a Rajput 🧠⚔️"</em>
+  <em>"Code fearlessly like Courage 🐶, but build smart like Phones 🧠⚔️"</em>
 </p>
 
 ---
